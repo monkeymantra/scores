@@ -21,5 +21,5 @@ This application requires:
 
 OR
 
-    cat scores-input.txt | java -jar target/scala-2.13/scores-assembly-0.1.jar ./scores-input.txt
+    cat scores-input.txt | java -jar target/scala-2.13/scores-assembly-0.1.jar
     
