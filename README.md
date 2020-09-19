@@ -5,7 +5,9 @@ This application requires:
  - scala 2.13
  
  
-    sbt assembly
+## To build   
+   
+sbt assembly
     
 
 # Running tests
