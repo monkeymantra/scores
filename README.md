@@ -7,7 +7,7 @@ This application requires:
  
 ## To build   
    
- sbt assembly
+    sbt assembly
     
 
 # Running tests
